@@ -1,0 +1,160 @@
+# French translations for miryu-lang.
+# Copyright (C) 2026  Miryu Project
+# This file is distributed under the same license as the miryu-lang package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: miryu-lang 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-16 11:04+0000\n"
+"PO-Revision-Date: 2026-10-16 11:30+0000\n"
+"Last-Translator: Miryu Project <miryu@example.com>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Simplified Chinese"
+msgstr "Chinois simplifié"
+
+msgid "Traditional Chinese"
+msgstr "Chinois traditionnel"
+
+msgid "Chinese (Hong Kong)"
+msgstr "Chinois (Hong Kong)"
+
+msgid "English (US)"
+msgstr "Anglais (États-Unis)"
+
+msgid "English (UK)"
+msgstr "Anglais (Royaume-Uni)"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugais (Brésil)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Portugais (Portugal)"
+
+msgid "Spanish"
+msgstr "Espagnol"
+
+msgid "Spanish (Mexico)"
+msgstr "Espagnol (Mexique)"
+
+msgid "Italian"
+msgstr "Italien"
+
+msgid "Japanese"
+msgstr "Japonais"
+
+msgid "German"
+msgstr "Allemand"
+
+msgid "French"
+msgstr "Français"
+
+msgid "Korean"
+msgstr "Coréen"
+
+msgid "Russian"
+msgstr "Russe"
+
+msgid "Czech"
+msgstr "Tchèque"
+
+msgid "Polish"
+msgstr "Polonais"
+
+msgid "Dutch"
+msgstr "Néerlandais"
+
+msgid "Swedish"
+msgstr "Suédois"
+
+msgid "Danish"
+msgstr "Danois"
+
+msgid "Finnish"
+msgstr "Finnois"
+
+msgid "Norwegian"
+msgstr "Norvégien"
+
+msgid "Turkish"
+msgstr "Turc"
+
+msgid "Arabic"
+msgstr "Arabe"
+
+msgid "Hebrew"
+msgstr "Hébreu"
+
+msgid "Thai"
+msgstr "Thaï"
+
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+msgid "Indonesian"
+msgstr "Indonésien"
+
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+msgid "Hungarian"
+msgstr "Hongrois"
+
+msgid "Norwegian Bokmal"
+msgstr "Norvégien (Bokmål)"
+
+msgid "Norwegian Nynorsk"
+msgstr "Norvégien (Nynorsk)"
+
+msgid "Serbian"
+msgstr "Serbe"
+
+msgid "Cantonese"
+msgstr "Cantonais"
+
+msgid "Hokkien"
+msgstr "Hokkien"
+
+msgid "Mandarin Chinese"
+msgstr "Mandarin"
+
+msgid "Hakka"
+msgstr "Hakka"
+
+msgid "Classical Chinese"
+msgstr "Chinois classique"
+
+msgid "Esperanto"
+msgstr "Espéranto"
+
+msgid "Usage: miryu-lang <language-code>"
+msgstr "Utilisation : miryu-lang <code-langue>"
+
+msgid "Examples: miryu-lang zh-cn | miryu-lang en-us | miryu-lang ru | miryu-lang cs"
+msgstr "Exemples : miryu-lang zh-cn | miryu-lang en-us | miryu-lang ru | miryu-lang cs"
+
+msgid "Any language code is accepted; the locale is derived automatically."
+msgstr "Tout code de langue est accepté ; la locale est dérivée automatiquement."
+
+msgid "Common shortcuts:"
+msgstr "Raccourcis courants :"
+
+msgid "Invalid command-line arguments. Type miryu-lang --help for help."
+msgstr "Arguments de ligne de commande incorrects. Tapez miryu-lang --help pour afficher l'aide."
+
+msgid "Root privileges are required to change the language."
+msgstr "Les privilèges root sont requis pour modifier la langue."
+
+msgid ""
+"Failed to change language. Please check if the system supports the localectl "
+"command and the locale is available."
+msgstr "Échec de la modification de la langue. Vérifiez que le système prend en charge la commande localectl et que la locale est disponible."
+
+#, c-format
+msgid "Changed to %s. Restart WSL to apply the changes.\n"
+msgstr "Langue modifiée %s. Redémarrez WSL pour que les modifications prennent effet.\n"

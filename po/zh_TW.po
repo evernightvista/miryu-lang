@@ -1,0 +1,160 @@
+# Chinese (Traditional) translations for miryu-lang.
+# Copyright (C) 2026  Miryu Project
+# This file is distributed under the same license as the miryu-lang package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: miryu-lang 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-16 11:04+0000\n"
+"PO-Revision-Date: 2026-10-16 11:20+0000\n"
+"Last-Translator: Miryu Project <miryu@example.com>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Simplified Chinese"
+msgstr "簡體中文"
+
+msgid "Traditional Chinese"
+msgstr "繁體中文"
+
+msgid "Chinese (Hong Kong)"
+msgstr "中文（香港）"
+
+msgid "English (US)"
+msgstr "英語（美國）"
+
+msgid "English (UK)"
+msgstr "英語（英國）"
+
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙語（巴西）"
+
+msgid "Portuguese (Portugal)"
+msgstr "葡萄牙語（葡萄牙）"
+
+msgid "Spanish"
+msgstr "西班牙語"
+
+msgid "Spanish (Mexico)"
+msgstr "西班牙語（墨西哥）"
+
+msgid "Italian"
+msgstr "義大利語"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "German"
+msgstr "德語"
+
+msgid "French"
+msgstr "法語"
+
+msgid "Korean"
+msgstr "韓國語"
+
+msgid "Russian"
+msgstr "俄語"
+
+msgid "Czech"
+msgstr "捷克語"
+
+msgid "Polish"
+msgstr "波蘭語"
+
+msgid "Dutch"
+msgstr "荷蘭語"
+
+msgid "Swedish"
+msgstr "瑞典語"
+
+msgid "Danish"
+msgstr "丹麥語"
+
+msgid "Finnish"
+msgstr "芬蘭語"
+
+msgid "Norwegian"
+msgstr "挪威語"
+
+msgid "Turkish"
+msgstr "土耳其語"
+
+msgid "Arabic"
+msgstr "阿拉伯語"
+
+msgid "Hebrew"
+msgstr "希伯來語"
+
+msgid "Thai"
+msgstr "泰語"
+
+msgid "Vietnamese"
+msgstr "越南語"
+
+msgid "Indonesian"
+msgstr "印尼語"
+
+msgid "Ukrainian"
+msgstr "烏克蘭語"
+
+msgid "Hungarian"
+msgstr "匈牙利語"
+
+msgid "Norwegian Bokmal"
+msgstr "挪威語（書面語）"
+
+msgid "Norwegian Nynorsk"
+msgstr "挪威語（新挪威語）"
+
+msgid "Serbian"
+msgstr "塞爾維亞語"
+
+msgid "Cantonese"
+msgstr "粵語"
+
+msgid "Hokkien"
+msgstr "閩南語"
+
+msgid "Mandarin Chinese"
+msgstr "官話"
+
+msgid "Hakka"
+msgstr "客家語"
+
+msgid "Classical Chinese"
+msgstr "文言文"
+
+msgid "Esperanto"
+msgstr "世界語"
+
+msgid "Usage: miryu-lang <language-code>"
+msgstr "用法：miryu-lang <語言代碼>"
+
+msgid "Examples: miryu-lang zh-cn | miryu-lang en-us | miryu-lang ru | miryu-lang cs"
+msgstr "範例：miryu-lang zh-cn | miryu-lang en-us | miryu-lang ru | miryu-lang cs"
+
+msgid "Any language code is accepted; the locale is derived automatically."
+msgstr "支援任意語言代碼，locale 將自動推導。"
+
+msgid "Common shortcuts:"
+msgstr "常用快捷代碼："
+
+msgid "Invalid command-line arguments. Type miryu-lang --help for help."
+msgstr "命令列參數不正確，請鍵入miryu-lang --help查看說明"
+
+msgid "Root privileges are required to change the language."
+msgstr "需要root才能修改語言"
+
+msgid ""
+"Failed to change language. Please check if the system supports the localectl "
+"command and the locale is available."
+msgstr "修改語言失敗，請檢查系統是否支援 localectl 指令以及該 locale 是否可用。"
+
+#, c-format
+msgid "Changed to %s. Restart WSL to apply the changes.\n"
+msgstr "已修改%s，重新啟動WSL後即可生效。\n"
